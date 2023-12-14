@@ -405,6 +405,4 @@ FodyWeavers.xsd
 # Built Visual Studio Code Extensions
 *.vsix
 
-solutions/
-
 .output/
